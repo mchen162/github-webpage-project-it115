@@ -29,7 +29,7 @@ a:hover {
 
 .interview1, .interview2 {
 	padding: 12px;
-	width: 70%;
+	width: 80%;	
 }
 .container-fluid { margin-left: 0; }
 
@@ -765,4 +765,4 @@ select:not([multiple]) {
 		width: 100%;
 		margin-left: 0;
 	}
-}
+
